@@ -1,0 +1,12 @@
+final double PI = 3.14 // определил что это константа, записал имя заглавными буквами
+final int ARRAY_SIZE = 100; // создал константу размер массива, подставил вместо числа
+final int ARRAY_SIZE = 10; // была создана переменная - переименовал и добавил final
+final char SEPARATE_CHARACTER = ' '; // создал константу - разделитель слов в строке
+final int CELL_EMPTY = 0; // константа обозначающее пустое поле
+final double DEVIATION = 0.5; // отклонение
+final int RADIX = 10; // система счисления
+final int PROCENT_LEVEL = 50; // уровень процентов голосов для определения победителя
+final int OFFSET_DIGIT_NUMBER = 1 // константа определяющая смещения цифры в разряде числа
+final int RADIX_FIRST = 8 // первая система счисления
+final int RADIX_SECOND = 16 // вторая система счисления
+final int INDEX_OFFSET = 2 // смещение индекса элемента массива в условиях
